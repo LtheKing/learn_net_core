@@ -1,0 +1,17 @@
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\Domain.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\Application.deps.json
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\Application.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\ref\Application.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\Application.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\Domain.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\ref\Application.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\obj\Debug\net5.0\Application.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\Persistence.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Application\bin\Debug\net5.0\Persistence.pdb

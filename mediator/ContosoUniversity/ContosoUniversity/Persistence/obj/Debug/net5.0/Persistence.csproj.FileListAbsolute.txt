@@ -1,0 +1,15 @@
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\bin\Debug\net5.0\Domain.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\bin\Debug\net5.0\Domain.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete

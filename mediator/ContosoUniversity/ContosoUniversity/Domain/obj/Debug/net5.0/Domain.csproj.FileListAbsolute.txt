@@ -1,0 +1,12 @@
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\bin\Debug\net5.0\Domain.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\bin\Debug\net5.0\Domain.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\Domain.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\Domain.pdb
+E:\aldi\learn\.net core\mediator\ContosoUniversity\ContosoUniversity\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
